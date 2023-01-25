@@ -20,6 +20,18 @@ O desenvolvimento do Linux é um dos mais proeminentes exemplos de software livr
 ## Qual o status do projeto atualmente?
 Hoje existem mais de 300 distribuições Linux ativas. A maioria delas é originada do Debian. Mais de 13500 desenvolvedores contribuem para o Linux atualmente. O kernel Linux, atualmente conta com 22 milhões de linhas de código.
 
+## Distribuições Linux
+Sendo o linux um kernel disponível de maneira gratuita e com código-fonte aberto, qualquer pessoa ou organização pode juntá-lo a um conjunto de softwares para criar um sistema operacional customizado.
+Logo existem diversas distribuições linux uitas inclusive fazem parte de negócios rentáveis em que a empresa fornece, por exemplo, o sistema operacional de graça, mas obtém receita a partir de serviços de suporte. A mais famosa dentre elas sendo o Ubuntu da empresa Canonical.
+
+Outros exemplos de distibuições populares são:
+* Fedora (ligada à Red Hat);
+* Debian;
+* Arch Linux;
+* Linux Mint;
+* CentOS (com foco em servidores);
+
+
 ## Rerefências
 
 [Desenvolvimento Kernel linux](https://embarcados.com.br/desenvolvimento-kernel-linux/)
